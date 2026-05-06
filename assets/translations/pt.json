@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Mapa de Estresse Populacional"
+  },
+  "actions": {
+    "attributions": "Atribuições",
+    "closeAttributions": "Fechar atribuições",
+    "currentLocation": "Localização atual",
+    "locate": "Localizar",
+    "filters": "Filtros",
+    "settings": "Configurações",
+    "zoomIn": "Aproximar",
+    "zoomOut": "Afastar",
+    "worldView": "Vista mundial"
+  },
+  "filters": {
+    "title": "Indicadores de estresse",
+    "description": "Indicadores desativados são ignorados na pontuação ponderada.",
+    "airQuality": "Qualidade do ar",
+    "populationDensity": "Densidade populacional",
+    "noise": "Ruído",
+    "traffic": "Tráfego",
+    "costOfLiving": "Custo de vida",
+    "safety": "Segurança"
+  },
+  "legend": {
+    "title": "Nível de estresse",
+    "low": "Baixo",
+    "medium": "Médio",
+    "high": "Alto",
+    "critical": "Crítico"
+  },
+  "details": {
+    "unavailable": "Indisponível",
+    "fallback": "Usando estimativa alternativa na pontuação geral"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "english": "Inglês",
+    "spanish": "Espanhol",
+    "portuguese": "Português",
+    "french": "Francês",
+    "russian": "Russo"
+  },
+  "location": {
+    "servicesDisabled": "Os serviços de localização estão desativados.",
+    "permissionDenied": "A permissão de localização foi negada.",
+    "permissionDeniedForever": "A permissão de localização foi negada permanentemente.",
+    "unavailable": "Não foi possível obter sua localização atual."
+  },
+  "hints": {
+    "zoomInToLoadData": "Aproxime para carregar dados das cidades"
+  },
+  "loading": {
+    "refreshingMapData": "Atualizando dados visíveis das cidades",
+    "live": "AO VIVO"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Carte du Stress Démographique"
+  },
+  "actions": {
+    "attributions": "Attributions",
+    "closeAttributions": "Fermer les attributions",
+    "currentLocation": "Position actuelle",
+    "locate": "Localiser",
+    "filters": "Filtres",
+    "settings": "Paramètres",
+    "zoomIn": "Zoom avant",
+    "zoomOut": "Zoom arrière",
+    "worldView": "Vue mondiale"
+  },
+  "filters": {
+    "title": "Indicateurs de stress",
+    "description": "Les indicateurs désactivés sont ignorés dans le score pondéré.",
+    "airQuality": "Qualité de l’air",
+    "populationDensity": "Densité de population",
+    "noise": "Bruit",
+    "traffic": "Trafic",
+    "costOfLiving": "Coût de la vie",
+    "safety": "Sécurité"
+  },
+  "legend": {
+    "title": "Niveau de stress",
+    "low": "Faible",
+    "medium": "Moyen",
+    "high": "Élevé",
+    "critical": "Critique"
+  },
+  "details": {
+    "unavailable": "Indisponible",
+    "fallback": "Estimation de secours utilisée dans le score global"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "english": "Anglais",
+    "spanish": "Espagnol",
+    "portuguese": "Portugais",
+    "french": "Français",
+    "russian": "Russe"
+  },
+  "location": {
+    "servicesDisabled": "Les services de localisation sont désactivés.",
+    "permissionDenied": "L’autorisation de localisation a été refusée.",
+    "permissionDeniedForever": "L’autorisation de localisation est refusée définitivement.",
+    "unavailable": "Impossible d’obtenir votre position actuelle."
+  },
+  "hints": {
+    "zoomInToLoadData": "Zoomez pour charger les données des villes"
+  },
+  "loading": {
+    "refreshingMapData": "Actualisation des données visibles des villes",
+    "live": "EN DIRECT"
+  }
+}

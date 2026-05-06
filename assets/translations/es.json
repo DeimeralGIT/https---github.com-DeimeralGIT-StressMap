@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Mapa de Estrés Poblacional"
+  },
+  "actions": {
+    "attributions": "Atribuciones",
+    "closeAttributions": "Cerrar atribuciones",
+    "currentLocation": "Ubicación actual",
+    "locate": "Ubicar",
+    "filters": "Filtros",
+    "settings": "Ajustes",
+    "zoomIn": "Acercar",
+    "zoomOut": "Alejar",
+    "worldView": "Vista mundial"
+  },
+  "filters": {
+    "title": "Indicadores de estrés",
+    "description": "Los indicadores desactivados se ignoran en la puntuación ponderada.",
+    "airQuality": "Calidad del aire",
+    "populationDensity": "Densidad poblacional",
+    "noise": "Ruido",
+    "traffic": "Tráfico",
+    "costOfLiving": "Costo de vida",
+    "safety": "Seguridad"
+  },
+  "legend": {
+    "title": "Nivel de estrés",
+    "low": "Bajo",
+    "medium": "Medio",
+    "high": "Alto",
+    "critical": "Crítico"
+  },
+  "details": {
+    "unavailable": "No disponible",
+    "fallback": "Usando estimación alternativa en la puntuación general"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "english": "Inglés",
+    "spanish": "Español",
+    "portuguese": "Portugués",
+    "french": "Francés",
+    "russian": "Ruso"
+  },
+  "location": {
+    "servicesDisabled": "Los servicios de ubicación están desactivados.",
+    "permissionDenied": "Se denegó el permiso de ubicación.",
+    "permissionDeniedForever": "El permiso de ubicación está denegado permanentemente.",
+    "unavailable": "No se pudo obtener tu ubicación actual."
+  },
+  "hints": {
+    "zoomInToLoadData": "Acércate para cargar datos de ciudades"
+  },
+  "loading": {
+    "refreshingMapData": "Actualizando datos visibles de ciudades",
+    "live": "EN VIVO"
+  }
+}

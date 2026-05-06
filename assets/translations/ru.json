@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Карта Стресса Населения"
+  },
+  "actions": {
+    "attributions": "Атрибуция",
+    "closeAttributions": "Закрыть атрибуцию",
+    "currentLocation": "Текущее местоположение",
+    "locate": "Найти",
+    "filters": "Фильтры",
+    "settings": "Настройки",
+    "zoomIn": "Приблизить",
+    "zoomOut": "Отдалить",
+    "worldView": "Вид мира"
+  },
+  "filters": {
+    "title": "Индикаторы стресса",
+    "description": "Отключенные индикаторы не учитываются во взвешенной оценке.",
+    "airQuality": "Качество воздуха",
+    "populationDensity": "Плотность населения",
+    "noise": "Шум",
+    "traffic": "Трафик",
+    "costOfLiving": "Стоимость жизни",
+    "safety": "Безопасность"
+  },
+  "legend": {
+    "title": "Уровень стресса",
+    "low": "Низкий",
+    "medium": "Средний",
+    "high": "Высокий",
+    "critical": "Критический"
+  },
+  "details": {
+    "unavailable": "Недоступно",
+    "fallback": "В общей оценке используется резервная оценка"
+  },
+  "settings": {
+    "title": "Настройки",
+    "language": "Язык",
+    "english": "Английский",
+    "spanish": "Испанский",
+    "portuguese": "Португальский",
+    "french": "Французский",
+    "russian": "Русский"
+  },
+  "location": {
+    "servicesDisabled": "Службы геолокации отключены.",
+    "permissionDenied": "Разрешение на геолокацию отклонено.",
+    "permissionDeniedForever": "Разрешение на геолокацию отклонено навсегда.",
+    "unavailable": "Не удалось получить текущее местоположение."
+  },
+  "hints": {
+    "zoomInToLoadData": "Приблизьте карту, чтобы загрузить данные по городам"
+  },
+  "loading": {
+    "refreshingMapData": "Обновление видимых данных по городам",
+    "live": "LIVE"
+  }
+}

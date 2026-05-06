@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Population Stress Map"
+  },
+  "actions": {
+    "attributions": "Attributions",
+    "closeAttributions": "Close attributions",
+    "currentLocation": "Current location",
+    "locate": "Locate",
+    "filters": "Filters",
+    "settings": "Settings",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "worldView": "World view"
+  },
+  "filters": {
+    "title": "Stress indicators",
+    "description": "Disabled indicators are ignored in the weighted score.",
+    "airQuality": "Air quality",
+    "populationDensity": "Population density",
+    "noise": "Noise",
+    "traffic": "Traffic",
+    "costOfLiving": "Cost of living",
+    "safety": "Safety"
+  },
+  "legend": {
+    "title": "Stress level",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "critical": "Critical"
+  },
+  "details": {
+    "unavailable": "Unavailable",
+    "fallback": "Using fallback estimate in overall score"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese",
+    "french": "French",
+    "russian": "Russian"
+  },
+  "location": {
+    "servicesDisabled": "Location services are disabled.",
+    "permissionDenied": "Location permission was denied.",
+    "permissionDeniedForever": "Location permission is permanently denied.",
+    "unavailable": "Unable to get your current location."
+  },
+  "hints": {
+    "zoomInToLoadData": "Zoom in to load city data"
+  },
+  "loading": {
+    "refreshingMapData": "Refreshing visible city data",
+    "live": "LIVE"
+  }
+}
